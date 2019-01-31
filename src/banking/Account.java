@@ -26,7 +26,7 @@ public class Account extends Methods{
 	void readData() {
 		
 		System.out.println("Welcome to Banwan Bank.");
-		System.out.println("===========================");
+		System.out.println("=======================");
 		do {
 			System.out.print("Please Enter your account Number: ");
 			acc_no = s.nextInt();
